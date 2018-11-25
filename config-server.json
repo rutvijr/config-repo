@@ -1,6 +1,6 @@
 {
 	"git": {
-		"uri": "https://github.com/rutvijr/config-repo.git",
+		"uri": "https://github.com/rutvijr/config-repo",
 		"searchPaths": "{application}"
 	}
 }
